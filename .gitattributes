@@ -1,0 +1,4 @@
+Biometrie/cert.pem text eol=lf
+Biometrie/key.pem text eol=lf
+Biometrie/migrations/env.py text eol=lf
+.gitattributes text eol=lf
